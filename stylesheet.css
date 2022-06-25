@@ -1,0 +1,38 @@
+body {
+    font-size: 15pt;
+    text-align: center;
+}
+hr{
+    border-width: 5px 0 0 0;
+    border-color: #000000;
+}
+#keyboardinput {
+    background-color: yellow;
+    font-size: 20pt;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.virtualinput{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 360px;
+    height: 200px;
+    border: solid 1px gray;
+    
+}
+
+button{
+    font-size:27pt;
+}
+.result-hidden {
+    font-size: 60pt;
+}
+.bodyB {
+    font-size: 60pt;
+}
